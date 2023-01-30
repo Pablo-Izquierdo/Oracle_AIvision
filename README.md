@@ -1,6 +1,7 @@
 # Oracle_AIvision
 
 A Oracle Workshop - Premier League Video Analysis with Deep Learning
+
 https://apexapps.oracle.com/pls/apex/r/dbpm/livelabs/run-workshop?p210_wid=3489&p210_wec=&session=7237921420777
 
 This proyect have been done with oracle services
